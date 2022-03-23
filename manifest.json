@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Replace Font",
+  "version": "1.0.0", 
+  "description": "見ていて不快になるフォントを置き換える拡張機能",
+  "content_scripts": [
+    {
+      "matches": ["https://twitter.com/*"],
+      "css": ["twitter.css"]
+    },
+    {
+      "matches": ["<all_urls>"],
+      "css": ["style.css"]
+    }
+  ]
+}

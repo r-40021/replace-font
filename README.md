@@ -1,8 +1,22 @@
 # Replace Font
-This is a browser extension which replace the fonts which is difficult to read.
 
-This extension replaces the dirty fonts (e.x. MS Gothic) with Noto Sans.
+## English
+This is a browser extension that replaces hard-to-read fonts with Noto Sans.
 
-これは、読みづらいフォントを置き換えるブラウザ拡張機能です。
+Fonts that be replaced:
 
-この拡張機能は、汚いフォント(例：MSゴシック)をNoto Sansに置き換えます。
+- MS Gothic
+- MS P Gothic
+- Meiryo
+- Yu Gothic
+
+## 日本語
+
+これは、読みづらいフォントを Noto Sans に置き換えるブラウザ拡張機能です。
+
+置き換えられるフォント
+
+- ＭＳ ゴシック
+- ＭＳ Ｐゴシック
+- メイリオ
+- 游ゴシック

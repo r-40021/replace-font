@@ -1,5 +1,5 @@
 {
-  "manifest_version": 3,
+  "manifest_version": 2,
   "name": "やっぱり Noto Sans",
   "version": "1.1.2",
   "description": "Web ページ上の読みづらいフォントを、読みやすい Noto Sans に置き換えます。",
@@ -8,7 +8,7 @@
     "48": "icons/icon-48x48.png",
     "128": "icons/icon-128x128.png"
   },
-  "action": {
+  "browser_action": {
     "default_popup": "popup/popup.html"
   },
   "content_scripts": [
@@ -23,14 +23,7 @@
     }
   ],
   "web_accessible_resources": [
-    {
-      "resources": [
         "fonts/*.woff2",
         "css/*.css"
-      ],
-      "matches": [
-        "<all_urls>"
-      ]
-    }
   ]
 }

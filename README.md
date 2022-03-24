@@ -20,3 +20,5 @@ Fonts that be replaced:
 - ＭＳ Ｐゴシック
 - メイリオ
 - 游ゴシック
+
+![フォントを置き換えて見やすく](https://user-images.githubusercontent.com/75155258/159868921-7dd6896a-19b0-41c9-86c3-8041ec9fe730.png)

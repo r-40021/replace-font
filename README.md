@@ -1,4 +1,4 @@
-# Replace Font
+# やっぱり Noto Sans
 
 ## English
 This is a browser extension that replaces hard-to-read fonts with Noto Sans.

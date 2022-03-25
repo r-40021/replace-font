@@ -11,13 +11,13 @@ body {
 @font-face { 
   font-family: 'Noto Font';
   src:  local('Noto Sans CJK JP'),
-        url('chrome-extension://__MSG_@@extension_id__/fonts/NotoSansCJKjp-Regular-subset.woff2') format('woff2');
+        url('moz-extension://__MSG_@@extension_id__/fonts/NotoSansCJKjp-Regular-subset.woff2') format('woff2');
   font-display: swap;
 }
 
 @font-face { 
   font-family: 'Noto Font';
   src:  local('Noto Sans CJK JP'),
-        url('chrome-extension://__MSG_@@extension_id__/fonts/NotoSansCJKjp-Bold-subset.woff2') format('woff2');
+        url('moz-extension://__MSG_@@extension_id__/fonts/NotoSansCJKjp-Bold-subset.woff2') format('woff2');
   font-weight: bold;
 }

@@ -5,5 +5,5 @@ if [ ! $? -eq 0 ]; then
   echo;
   echo "sudo apt install zip"
 else
-  zip ../replace-font-firefox.zip -r * -x .git README.md LICENSE
+  zip ../replace-font-firefox.zip -r * -x .git README.md LICENSE *.sh *.swp
 fi

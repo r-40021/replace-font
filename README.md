@@ -1,5 +1,9 @@
 # やっぱり Noto Sans
 
+Chrome -> https://chrome.google.com/webstore/detail/oecglhldbofcklanmhckefiflhfhabdd
+
+Firefox -> https://addons.mozilla.org/ja/firefox/addon/replace-with-noto/
+
 ## English
 This is a browser extension that replaces hard-to-read fonts with Noto Sans.
 

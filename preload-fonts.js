@@ -15,7 +15,7 @@
       const loadCSS = document.createElement('link');
       loadCSS.setAttribute('rel', 'stylesheet');
       loadCSS.setAttribute('type', 'text/css');
-      loadCSS.setAttribute('href', chrome.runtime.getURL(`css/${path.toLowerCase()}.css`));
+      loadCSS.setAttribute('href', chrome.runtime.getURL(`css/replacefont-extension-${path.toLowerCase()}.css`));
       document.head.appendChild(loadCSS);
     })
   }

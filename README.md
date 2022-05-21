@@ -13,6 +13,8 @@ Fonts that be replaced:
 - MS P Gothic
 - Meiryo
 - Yu Gothic
+- M PLUS 1p
+- M PLUS Rounded 1c
 
 ## 日本語
 
@@ -24,6 +26,8 @@ Fonts that be replaced:
 - ＭＳ Ｐゴシック
 - メイリオ
 - 游ゴシック
+- M PLUS 1p
+- M PLUS Rounded 1c
 
 
 ![フォントを置き換えて見やすく](https://user-images.githubusercontent.com/75155258/159868921-7dd6896a-19b0-41c9-86c3-8041ec9fe730.png)

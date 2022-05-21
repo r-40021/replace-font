@@ -4,6 +4,7 @@
 @font-face { 
   font-family: 'MS PGothic';
   src:  local('Noto Sans CJK JP'),
+        local('Noto Sans JP'),
         url('moz-extension://__MSG_@@extension_id__/fonts/NotoSansCJKjp-Regular-subset.woff2') format('woff2'),
         local('BIZ UDPGothic');
   font-display: swap;
@@ -11,6 +12,7 @@
 @font-face { 
   font-family: 'ms pgothic';
   src:  local('Noto Sans CJK JP'),
+        local('Noto Sans JP'),
         url('moz-extension://__MSG_@@extension_id__/fonts/NotoSansCJKjp-Regular-subset.woff2') format('woff2'),
         local('BIZ UDPGothic');
   font-display: swap;
@@ -18,6 +20,7 @@
 @font-face { 
   font-family: 'MS Pゴシック';
   src:  local('Noto Sans CJK JP'),
+        local('Noto Sans JP'),
         url('moz-extension://__MSG_@@extension_id__/fonts/NotoSansCJKjp-Regular-subset.woff2') format('woff2'),
         local('BIZ UDPGothic');
   font-display: swap;
@@ -25,6 +28,7 @@
 @font-face { 
   font-family: 'ms pゴシック';
   src:  local('Noto Sans CJK JP'),
+        local('Noto Sans JP'),
         url('moz-extension://__MSG_@@extension_id__/fonts/NotoSansCJKjp-Regular-subset.woff2') format('woff2'),
         local('BIZ UDPGothic');
   font-display: swap;
@@ -32,6 +36,7 @@
 @font-face { 
   font-family: 'ＭＳ Ｐゴシック';
   src:  local('Noto Sans CJK JP'),
+        local('Noto Sans JP'),
         url('moz-extension://__MSG_@@extension_id__/fonts/NotoSansCJKjp-Regular-subset.woff2') format('woff2'),
         local('BIZ UDPGothic');
   font-display: swap;
@@ -39,6 +44,7 @@
 @font-face { 
   font-family: 'MS Gothic';
   src:  local('Noto Sans CJK JP'),
+        local('Noto Sans JP'),
         url('moz-extension://__MSG_@@extension_id__/fonts/NotoSansCJKjp-Regular-subset.woff2') format('woff2'),
         local('BIZ UDPGothic');
   font-display: swap;
@@ -46,6 +52,7 @@
 @font-face { 
   font-family: 'ms gothic';
   src:  local('Noto Sans CJK JP'),
+        local('Noto Sans JP'),
         url('moz-extension://__MSG_@@extension_id__/fonts/NotoSansCJKjp-Regular-subset.woff2') format('woff2'),
         local('BIZ UDPGothic');
   font-display: swap;
@@ -53,6 +60,7 @@
 @font-face { 
   font-family: 'MS ゴシック';
   src:  local('Noto Sans CJK JP'),
+        local('Noto Sans JP'),
         url('moz-extension://__MSG_@@extension_id__/fonts/NotoSansCJKjp-Regular-subset.woff2') format('woff2'),
         local('BIZ UDPGothic');
   font-display: swap;
@@ -60,6 +68,7 @@
 @font-face { 
   font-family: 'ms ゴシック';
   src:  local('Noto Sans CJK JP'),
+        local('Noto Sans JP'),
         url('moz-extension://__MSG_@@extension_id__/fonts/NotoSansCJKjp-Regular-subset.woff2') format('woff2'),
         local('BIZ UDPGothic');
   font-display: swap;
@@ -67,6 +76,7 @@
 @font-face { 
   font-family: 'ＭＳ ゴシック';
   src:  local('Noto Sans CJK JP'),
+        local('Noto Sans JP'),
         url('moz-extension://__MSG_@@extension_id__/fonts/NotoSansCJKjp-Regular-subset.woff2') format('woff2'),
         local('BIZ UDPGothic');
   font-display: swap;
@@ -74,6 +84,7 @@
 @font-face { 
   font-family: "MS UI Gothic"; 
   src:  local('Noto Sans CJK JP'),
+        local('Noto Sans JP'),
         url('moz-extension://__MSG_@@extension_id__/fonts/NotoSansCJKjp-Regular-subset.woff2') format('woff2'),
         local('BIZ UDPGothic');
   font-display: swap;
@@ -81,6 +92,7 @@
 @font-face { 
   font-family: "メイリオ"; 
   src:  local('Noto Sans CJK JP'),
+        local('Noto Sans JP'),
         url('moz-extension://__MSG_@@extension_id__/fonts/NotoSansCJKjp-Regular-subset.woff2') format('woff2'),
         local('BIZ UDPGothic');
   font-display: swap;
@@ -88,6 +100,7 @@
 @font-face { 
   font-family: "Meiryo"; 
   src:  local('Noto Sans CJK JP'),
+        local('Noto Sans JP'),
         url('moz-extension://__MSG_@@extension_id__/fonts/NotoSansCJKjp-Regular-subset.woff2') format('woff2'),
         local('BIZ UDPGothic');
   font-display: swap;
@@ -95,6 +108,7 @@
 @font-face { 
   font-family: "YuGothic"; 
   src:  local('Noto Sans CJK JP'),
+        local('Noto Sans JP'),
         url('moz-extension://__MSG_@@extension_id__/fonts/NotoSansCJKjp-Regular-subset.woff2') format('woff2'),
         local('BIZ UDPGothic');
   font-display: swap;
@@ -102,6 +116,7 @@
 @font-face { 
   font-family: "Yu Gothic"; 
   src:  local('Noto Sans CJK JP'),
+        local('Noto Sans JP'),
         url('moz-extension://__MSG_@@extension_id__/fonts/NotoSansCJKjp-Regular-subset.woff2') format('woff2'),
         local('BIZ UDPGothic');
   font-display: swap;
@@ -109,6 +124,7 @@
 @font-face { 
   font-family: "游ゴシック"; 
   src:  local('Noto Sans CJK JP'),
+        local('Noto Sans JP'),
         url('moz-extension://__MSG_@@extension_id__/fonts/NotoSansCJKjp-Regular-subset.woff2') format('woff2'),
         local('BIZ UDPGothic');
   font-display: swap;
@@ -116,6 +132,7 @@
 @font-face { 
   font-family: "YuGothic Medium"; 
   src:  local('Noto Sans CJK JP'),
+        local('Noto Sans JP'),
         url('moz-extension://__MSG_@@extension_id__/fonts/NotoSansCJKjp-Regular-subset.woff2') format('woff2'),
         local('BIZ UDPGothic');
   font-display: swap;
@@ -123,6 +140,7 @@
 @font-face { 
   font-family: "Yu Gothic Medium"; 
   src:  local('Noto Sans CJK JP'),
+        local('Noto Sans JP'),
         url('moz-extension://__MSG_@@extension_id__/fonts/NotoSansCJKjp-Regular-subset.woff2') format('woff2'),
         local('BIZ UDPGothic');
   font-display: swap;
@@ -130,6 +148,23 @@
 @font-face { 
   font-family: "游ゴシック Medium"; 
   src:  local('Noto Sans CJK JP'),
+        local('Noto Sans JP'),
+        url('moz-extension://__MSG_@@extension_id__/fonts/NotoSansCJKjp-Regular-subset.woff2') format('woff2'),
+        local('BIZ UDPGothic');
+  font-display: swap;
+}
+@font-face { 
+  font-family: "M PLUS 1p"; 
+  src:  local('Noto Sans CJK JP'),
+        local('Noto Sans JP'),
+        url('moz-extension://__MSG_@@extension_id__/fonts/NotoSansCJKjp-Regular-subset.woff2') format('woff2'),
+        local('BIZ UDPGothic');
+  font-display: swap;
+}
+@font-face { 
+  font-family: "M PLUS Rounded 1c"; 
+  src:  local('Noto Sans CJK JP'),
+        local('Noto Sans JP'),
         url('moz-extension://__MSG_@@extension_id__/fonts/NotoSansCJKjp-Regular-subset.woff2') format('woff2'),
         local('BIZ UDPGothic');
   font-display: swap;

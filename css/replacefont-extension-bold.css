@@ -173,7 +173,16 @@
   font-display: swap;
 }
 @font-face { 
-  font-family: "M PLUS 1p"; 
+  font-family: "Yu Gothic UI"; 
+  src:  local('Noto Sans CJK JP Bold'),
+        local('Noto Sans JP Bold'),
+        url('chrome-extension://__MSG_@@extension_id__/fonts/NotoSansCJKjp-Bold-subset.woff2') format('woff2'),
+        local('BIZ UDPGothic');
+  font-weight: bold;
+  font-display: swap;
+}
+@font-face { 
+  font-family: "Meiryo UI"; 
   src:  local('Noto Sans CJK JP Bold'),
         local('Noto Sans JP Bold'),
         url('chrome-extension://__MSG_@@extension_id__/fonts/NotoSansCJKjp-Bold-subset.woff2') format('woff2'),

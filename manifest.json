@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "やっぱり Noto Sans",
   "version": "1.1.7",
-  "description": "Web ページ上の読みづらいフォントを、読みやすい Noto Sans に置き換えます。",
+  "description": "ウェブページ上の読みづらいフォントを、読みやすい Noto Sans に置き換えます。",
   "icons": {
     "16": "icons/icon-16x16.png",
     "48": "icons/icon-48x48.png",

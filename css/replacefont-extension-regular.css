@@ -177,3 +177,11 @@
         local('BIZ UDPGothic');
   font-display: swap;
 }
+@font-face { 
+  font-family: "Malgun Gothic"; 
+  src:  local('Noto Sans CJK JP'),
+        local('Noto Sans JP'),
+        url('moz-extension://__MSG_@@extension_id__/fonts/NotoSansCJKjp-Regular-subset.woff2') format('woff2'),
+        local('BIZ UDPGothic');
+  font-display: swap;
+}

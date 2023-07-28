@@ -5,6 +5,6 @@ if [ ! $? -eq 0 ]; then
   echo;
   echo "sudo apt install zip"
 else
-  zip ../replace-font-chrome.zip -r * -x .git README.md LICENSE *.sh *.swp 
+  zip ./replace-font-chrome.zip -r * -x .git README.md LICENSE *.sh *.swp 
 fi
 

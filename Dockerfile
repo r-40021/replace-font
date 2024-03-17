@@ -1,4 +1,4 @@
-FROM --platform=linux/x86_64 node:18
+FROM --platform=linux/x86_64 node:20
 
 RUN apt-get update
 RUN apt-get install -y locales

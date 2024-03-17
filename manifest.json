@@ -32,5 +32,11 @@
         "<all_urls>"
       ]
     }
-  ]
+  ],
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "replacefont@frogapp.net"
+    }
+  }
+  
 }

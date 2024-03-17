@@ -208,3 +208,12 @@
   font-weight: bold;
   font-display: swap;
 }
+@font-face { 
+  font-family: "Arial Unicode MS"; 
+  src:  local('Noto Sans CJK JP Bold'),
+        local('Noto Sans JP Bold'),
+        url('moz-extension://__MSG_@@extension_id__/fonts/NotoSansCJKjp-Bold-subset.woff2') format('woff2'),
+        local('BIZ UDPGothic');
+  font-weight: bold;
+  font-display: swap;
+}

@@ -19,13 +19,13 @@ function createPreloadTag(elem) {
     preloadTag.setAttribute('href', chrome.runtime.getURL(`fonts/NotoSansCJKjp-${weight}-subset.woff2`));
     preloadTag.setAttribute('crossorigin', true);
     preloadTag.classList = className;
-    elem.head.appendChild(preloadTag);
+    elem.body.appendChild(preloadTag);
     preloadTag.addEventListener('load', () => {
       const loadCSS = elem.createElement('link');
       loadCSS.setAttribute('rel', 'stylesheet');
       loadCSS.setAttribute('type', 'text/css');
       loadCSS.setAttribute('href', chrome.runtime.getURL(`css/replacefont-extension-${weight.toLowerCase()}.css`));
-      elem.head.appendChild(loadCSS);
+      elem.body.appendChild(loadCSS);
     });
   });
 }
